@@ -1,0 +1,58 @@
+ git init
+  188  git status
+  189  git add *
+  190  git status
+  191  git branch
+  192  git branch test
+  193  git branch test
+  194  git branch
+  195  git branch --list
+  196  git checkout test
+  197  git branch test
+  198  git branch master
+  199  git commit -m "Heloooo"
+  200  git branch
+  201  git branch test
+  202  git branch
+  203  git checkout  test
+  204  git branch
+  205  git checkout -b test1
+  206  git checkout master
+  207  git log
+  208  git checkout  test
+  209  git add *
+  210  git status
+  211  git status
+  212  git add *
+  213  git diff
+  214  git commit -m "Test"
+  215  git diff
+  216  git diff
+  217  git log
+  218  git show
+  219  git checkout master
+  220  git commit -m "Test"
+  221  git add *
+  222  git commit -m "Test"
+  223  git checkout master
+  224  git log
+  225  git remote add origin "https://github.com/SaurabhJ03/Enjoy.git"
+  226  git remote
+  227  git push origin master -f
+  228  git status
+  229  git checkout test
+  230  git log
+  231  git remote add origin1 "https://github.com/SaurabhJ03/Enjoy.git"
+  232  git remote
+  233  git push origin test
+  234  git status
+  235  git log
+  236  git checkout master
+  237  git merge test
+  238  git status
+  239  git log
+  240  git push origin master
+  241  git push origin master -f
+  242  git commit "new commited"
+  243  git status
+  244  history
